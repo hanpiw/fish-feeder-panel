@@ -49,8 +49,8 @@ Database untuk proyek ini telah diatur. Jika Anda ingin melakukan replikasi ke p
    ```
 2. Konfigurasi file `.env.local` dengan kredensial Supabase Anda (telah diisi otomatis):
    ```text
-    NEXT_PUBLIC_SUPABASE_URL=YOUR_SUPABASE_URL
-    NEXT_PUBLIC_SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_KEY
+   NEXT_PUBLIC_SUPABASE_URL=SUPABASE_URL_PUNYA LU
+   NEXT_PUBLIC_SUPABASE_ANON_KEY=SUPABASE_ANON_KEY_PUNYA LU
    ```
 3. Jalankan server pengembangan lokal:
    ```bash

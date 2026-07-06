@@ -4,15 +4,15 @@ Dokumen ini menjelaskan endpoint REST API Supabase yang diakses oleh perangkat E
 
 ## Base URL
 ```text
-https://YOUR_SUPABASE_PROJECT_REF.supabase.co
+https://SUPABASE_PUNYA_LU.supabase.co
 ```
 
 ## Global Headers
 Setiap request ke endpoint REST API Supabase **wajib** menyertakan header berikut:
 
 ```http
-apikey: YOUR_SUPABASE_ANON_KEY
-Authorization: Bearer YOUR_SUPABASE_ANON_KEY
+apikey: API_KEY_LU
+Authorization: Bearer ANON_KEY_PUNYA_LU
 Content-Type: application/json (untuk POST / PATCH / PUT)
 ```
 

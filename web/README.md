@@ -26,8 +26,8 @@ npm install
 ### 3. Konfigurasi Lingkungan
 Pastikan file `.env.local` di folder `web/` sudah berisi kredensial yang tepat:
 ```env
-NEXT_PUBLIC_SUPABASE_URL=YOUR_SUPABASE_URL
-NEXT_PUBLIC_SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_KEY
+NEXT_PUBLIC_SUPABASE_URL=SUPABASE_URL_PUNYA LU
+NEXT_PUBLIC_SUPABASE_ANON_KEY=SUPABASE_ANON_KEY_PUNYA LU
 ```
 
 ### 4. Jalankan Mode Development
