@@ -11,11 +11,12 @@
 const char* ssid = "fysss -2.4G";         // Ganti dengan SSID WiFi Anda
 const char* password = "GENEIRYODAN"; // Ganti dengan Password WiFi Anda
 
-const char* supabase_url = "https://yaivbvnqqblevecypwle.supabase.co";
+const char* supabase_url = "https://yaivbvnqqblevecypwle.supabase.co"; // Ganti ke SUPABASE URL Anda
 const char* supabase_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlhaXZidm5xcWJsZXZlY3lwd2xlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODMyNjcxNTIsImV4cCI6MjA5ODg0MzE1Mn0.eRYpFd8EBbhzTlqfNMH5farkJHq-Q_TPmJLUXCAmuIQ";
+// Ganti ke SUPABASE ANON KEY Anda
 
 // Salin ID Perangkat dari Dashboard Web Anda
-const char* device_id = "9a76aec0-008d-4e3c-866b-44d579424a7b"; // SALIN_DEVICE_ID_DISINI
+const char* device_id = "9a76aec0-008d-4e3c-866b-44d579424a7b"; // SALIN_DEVICE_ID_DISINI (Login Halaman Dashboard Terlebih Dahulu)
 
 // ==========================================
 // PIN & PERANGKAT HARDWARE
