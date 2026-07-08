@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ngefeed Fishhh!</string>
+    <string name="title_activity_main">Ngefeed Fishhh!</string>
+    <string name="package_name">com.hanpiw.fishfeeder</string>
+    <string name="custom_url_scheme">com.hanpiw.fishfeeder</string>
+</resources>
